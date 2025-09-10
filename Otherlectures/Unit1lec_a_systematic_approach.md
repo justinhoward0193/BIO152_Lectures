@@ -3,38 +3,34 @@ marp: true
 class: invert
 size: 16:9
 paginate: true
-tags: unti1lectures
+tags: unit1-lectures
+
+
 ---
+
 # A Systematic Approach
 
-
-
-
-###### Fall 2025
-Justin N. Howard
-KCTCS · Somerset
-
-
+## Justin N. Howard
+### Principles of Biology II · KCTCS · Somerset · Fall 2025
 ---
 
-## A Systematic Approach to Microorganisms
+# A Systematic Approach to Microorganisms
 
-- Let's understand how microorganisms, once revealed by microscopes, displayed an incredible diversity in size, appearance, and reproduction rates.
+Let's understand how microorganisms, once they were revealed by microscopes, displayed an incredible diversity in size, appearance, and reproduction rates.
   
-  
-
-- We'll explore the necessity of a systematic approach to categorize this diverse array of organisms.
+We'll explore the necessity of a systematic approach to categorize this diverse array of organisms.
   
 ---
-## The Science of Taxonomy
+# The Science of Taxonomy
 
-- Taxonomy, the science of classifying living organisms, involves categorizing organisms based on shared characteristics.
+## Taxonomy - the science of classifying living organisms. 
+### Involves categorizing organisms based on shared characteristics.
   
 ---
 
-## **Carolus Linnaeus** (1701–1778), a Swedish botanist, zoologist, and physician, was a pioneering taxonomist. His work, *Systema Naturae*, laid the foundation for modern taxonomic categorization.
+# **Carolus Linnaeus** (1701–1778), a Swedish botanist, zoologist, and physician, was a pioneering taxonomist. His work, *Systema Naturae*, laid the foundation for modern taxonomic categorization.
 
-![bg left 58%](Unit1lectures_static/Naturalis_Biodiversity_Center_-_Martin_Hoffman_-_Carl_von_Linné_(Linnaeus)_in_his_Lapland_costume_-_painting.jpg)
+![bg left 58%](../Unit1lectures_static/a_systematic_approach/Naturalis_Biodiversity_Center_-_Martin_Hoffman_-_Carl_von_Linné_(Linnaeus)_in_his_Lapland_costume_-_painting.jpg)
 
 ---
 
@@ -45,6 +41,13 @@ KCTCS · Somerset
 
 ### His original taxonomy included three kingdoms: animal, plant, and mineral, though the mineral kingdom was later dropped.
 
+---
+
+# Binomial Nomenclature
+
+## Linnaeus's binomial nomenclature system uses a two-word naming format: the genus and specific epithet, like *Homo sapiens* for humans.
+  
+## This system provides a unique, universally recognized name for each organism.
 
 ---
 
@@ -62,17 +65,23 @@ KCTCS · Somerset
 
 ---
 
-![bg fit](Unit1lectures_static/Tree_of_life_by_Haeckel.jpg)
+![bg fit](../Unit1lectures_static/a_systematic_approach/800px-Haeckel_arbol_bn.png)
+
 
 ---
 
-![bg fit](Unit1lectures_static/800px-Haeckel_arbol_bn.png)
+![bg fit](../Unit1lectures_static/a_systematic_approach/Tree_of_life_by_Haeckel.jpg)
 
 ---
 
 # Robert Whittaker's **Five-Kingdom System**
 
 ## American ecologist Robert Whittaker (1920-1980) expanded the tree of life in 1969, proposing the kingdom Fungi and distinguishing between prokaryotes and eukaryotes.
+
+---
+
+
+![bg fit](../Unit1lectures_static/a_systematic_approach/OSC_Microbio_01_02_TreesTIME.jpg)
   
 ---
 
@@ -84,9 +93,8 @@ KCTCS · Somerset
 
 ---
 
-![Evolution of the Tree of Life bg scale](unit1images/Fig1.10.jpg)
 
----
+
 
 ## The Role of Genetics in Modern Taxonomy
 
@@ -95,15 +103,11 @@ KCTCS · Somerset
   
 ---
 
-![Woese and Fox's Phylogenetic Tree bg](unit1images/Fig1.11.jpg)
+![bg fit](../Unit1lectures_static/a_systematic_approach/Woeses-universal-Phylogenetic-Tree-of-Life-Model-determined-from-rRNA-sequence.png)
 
 ---
 
-# Naming Microbes - Binomial Nomenclature
 
-## Linnaeus's binomial nomenclature system uses a two-word naming format: the genus and specific epithet, like *Homo sapiens* for humans.
-  
-## This system provides a unique, universally recognized name for each organism.
 
 
 ---
