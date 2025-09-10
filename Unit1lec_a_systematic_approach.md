@@ -32,27 +32,27 @@ KCTCS · Somerset
   
 ---
 
-- Carolus Linnaeus (1701–1778), a Swedish botanist, zoologist, and physician, was a pioneering taxonomist. His work, *Systema Naturae*, laid the foundation for modern taxonomic categorization.
+## **Carolus Linnaeus** (1701–1778), a Swedish botanist, zoologist, and physician, was a pioneering taxonomist. His work, *Systema Naturae*, laid the foundation for modern taxonomic categorization.
 
-![Carolus Linnaeus bg right](unit1images/Fig1.8.jpg)
+![bg left 58%](Unit1lectures_static/Naturalis_Biodiversity_Center_-_Martin_Hoffman_-_Carl_von_Linné_(Linnaeus)_in_his_Lapland_costume_-_painting.jpg)
 
 ---
 
 # Linnaeus's Taxonomic Hierarchy
 
-- ## Linnaeus's system divided the natural world into kingdoms, classes, orders, families, genera, and species, with species being the most specific level.
+## Linnaeus's system divided the natural world into **kingdoms, classes, orders, families, genera**, and **species**, with species being the most specific level.
 
 
-- ## His original taxonomy included three kingdoms: animal, plant, and mineral, though the mineral kingdom was later dropped.
+### His original taxonomy included three kingdoms: animal, plant, and mineral, though the mineral kingdom was later dropped.
 
 
 ---
 
 # Evolving Trees of Life - Phylogenies
 
-- ## Phylogenetic trees, or trees of life, illustrate the evolutionary relationships among different species.
+## Phylogenetic trees, or trees of life, illustrate the evolutionary relationships among different species.
   
-- ## Initially based on *morphology* (visible characteristics), these trees now incorporate genetic, biochemical, and embryological comparisons.
+## Initially based on *morphology* (visible characteristics), these trees now incorporate genetic, biochemical, and embryological comparisons.
 
 ---
 
@@ -62,7 +62,11 @@ KCTCS · Somerset
 
 ---
 
-![Ernst Haeckel's Tree of Life bg 90%](unit1images/Fig1.9.jpg)
+![bg fit](Unit1lectures_static/Tree_of_life_by_Haeckel.jpg)
+
+---
+
+![bg fit](Unit1lectures_static/800px-Haeckel_arbol_bn.png)
 
 ---
 
