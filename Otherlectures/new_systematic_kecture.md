@@ -62,12 +62,56 @@ Pioneering taxonomist whose *Systema Naturae* laid the foundation for modern cla
 - Initially based on morphology (visible characteristics).  
 - Now incorporate genetic, biochemical, and embryological comparisons.  
 
+
 ---
+
+# Charles Darwin and the Voyage of the Beagle
+
+- Charles Darwin (1809–1882), English naturalist.  
+- Spent 5 years (1831–1836) aboard **HMS Beagle** collecting specimens and making observations.  
+- The **Galápagos Islands** provided key insights into variation, adaptation, and species divergence.  
+- His observations became the foundation for the theory of evolution by natural selection.  
+
+---
+
+# Key Concepts in Evolution
+
+- **Adaptation** – A heritable trait that improves survival or reproduction.  
+- **Natural Selection** – Process by which individuals with advantageous traits leave more offspring.  
+- **Selective Pressure** – Environmental factor that influences which traits increase survival and reproduction.  
+  - Examples: predators, climate, disease, food availability.  
+- Over generations, populations change as favorable traits accumulate.  
+
+---
+
+
+
+
+# Thomas Malthus (1766–1834)
+
+- English economist who wrote *An Essay on the Principle of Population* (1798).  
+- Proposed that populations grow faster than food supply.  
+- Result: competition for limited resources.  
+- Darwin later applied this concept to natural selection.
+
+---
+
+# Jean-Baptiste Lamarck (1744–1829)
+
+- Early evolutionary thinker.  
+- Proposed **inheritance of acquired characteristics**: traits developed during an organism’s lifetime could be passed to offspring.  
+- Example: giraffes stretch necks → offspring inherit longer necks.  
+- Though incorrect, Lamarck emphasized the role of adaptation and change over time.  
+
+---
+
 
 # Ernst Haeckel (1866)
 
 - Proposed **Protista** for unicellular organisms.  
 - Later added **Monera** for those without nuclei.  
+
+---
 
 ![bg fit](../Unit1lectures_static/a_systematic_approach/800px-Haeckel_arbol_bn.png)
 
@@ -116,6 +160,26 @@ Even within a single species, like *Escherichia coli*, there are different strai
 
 ---
 
+
+# Charles Darwin and the Voyage of the Beagle
+
+- Charles Darwin (1809–1882), English naturalist.  
+- Spent 5 years (1831–1836) aboard **HMS Beagle** collecting specimens and making observations.  
+- The **Galápagos Islands** provided key insights into variation, adaptation, and species divergence.  
+- His observations became the foundation for the theory of evolution by natural selection.  
+
+---
+
+# Key Concepts in Evolution
+
+- **Adaptation** – A heritable trait that improves survival or reproduction.  
+- **Natural Selection** – Process by which individuals with advantageous traits leave more offspring.  
+- **Selective Pressure** – Environmental factor that influences which traits increase survival and reproduction.  
+  - Examples: predators, climate, disease, food availability.  
+- Over generations, populations change as favorable traits accumulate.  
+
+---
+
 # Similarity and Evolutionary Relationships
 
 Similarity does not always accurately predict evolutionary relationships.  
@@ -124,7 +188,7 @@ Similarity does not always accurately predict evolutionary relationships.
 - Evolution is not always unidirectional.  
 - Evolution is not always divergent.  
 - Convergent evolution can produce similar traits in unrelated groups.  
-(© McGraw Hill LLC)
+
 
 ---
 
@@ -241,4 +305,4 @@ Systematists increasingly use DNA sequence data to construct phylogenies because
 
 ## But if your focus is within mammals only, lungs become a **plesiomorphy**, because they are already present in earlier ancestors (shared with amphibians and reptiles) and do not uniquely describe mammals.
 
----
+
