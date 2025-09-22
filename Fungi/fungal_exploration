@@ -1,0 +1,134 @@
+---
+
+marp: true
+theme: marp
+paginate: true
+footer: #unit2labs · Fall 2025 · BIO153
+ 
+---
+
+# Finding Fungus
+
+#### Justin N. Howard · KCTCS · BIO153 · Fall 2025
+
+---
+
+# Materials
+
+1. Computer
+2. PubMed Account
+
+---
+
+# Pathogenic Fungi Assignment Instructions
+
+1. You will be assigned one fungal pathogen.  
+2. Use **PubMed** (https://pubmed.ncbi.nlm.nih.gov) to research your fungus.  
+3. Answer the questions in each of the 9 categories provided in this slide set.  
+4. Save your completed work in a **Word document (.docx)**.  
+   - Title the file with your name and fungus (e.g., `JaneDoe_Histoplasma.docx`).  
+5. Submit the Word document as directed.
+
+---
+
+# 1. Taxonomy & Classification
+- **When/Who/Where** was it discovered?
+- What phylum/class/order/family?  
+- Is it a yeast, mold, dimorphic fungus, or dermatophyte?  
+
+**PubMed Search Terms**  
+- `"Trichophyton rubrum taxonomy"`  
+- `"Histoplasma capsulatum classification"`  
+- `"Aspergillus fumigatus phylogeny"`  
+
+---
+
+# 2. Morphology & Life Cycle
+- Growth form (yeast, hyphae, dimorphic)?  
+- Sexual vs asexual reproduction?  
+- Special structures (spores, conidia, asci, basidia)?  
+
+**PubMed Search Terms**  
+- `"Candida albicans morphology life cycle"`  
+- `"Sporothrix schenckii conidia"`  
+- `"Blastomyces dermatitidis dimorphic fungus"`  
+
+---
+
+# 3. Ecology & Reservoirs
+- Natural environment (soil, caves, plants, animals, human skin)?  
+- Conditions favoring growth (temperature, pH, moisture)?  
+
+**PubMed Search Terms**  
+- `"Coccidioides immitis soil ecology"`  
+- `"Pseudogymnoascus destructans bat caves reservoir"`  
+- `"Paracoccidioides ecology reservoir"`  
+
+---
+
+# 4. Mode of Transmission
+- How do people/animals acquire infection?  
+- Inhalation, direct contact, trauma, ingestion?  
+
+**PubMed Search Terms**  
+- `"Microsporum audouinii transmission"`  
+- `"Histoplasma capsulatum inhalation spores"`  
+- `"Candida albicans opportunistic infection"`  
+
+---
+
+# 5. Pathogenesis & Clinical Disease
+- What disease(s) does it cause?  
+- Which tissues/organs are targeted?  
+- Key virulence factors (toxins, enzymes, immune evasion)?  
+
+**PubMed Search Terms**  
+- `"Aspergillus fumigatus pathogenesis lung"`  
+- `"Trichophyton rubrum dermatophytosis"`  
+- `"Blastomyces dermatitidis virulence factors"`  
+
+---
+
+# 6. Epidemiology
+- Geographic distribution (tropical, temperate, arid)?  
+- Endemic vs worldwide?  
+- Populations at risk?  
+
+**PubMed Search Terms**  
+- `"Histoplasma capsulatum epidemiology Mississippi Valley"`  
+- `"Coccidioides immitis Valley Fever epidemiology"`  
+- `"Talaromyces marneffei epidemiology HIV"`  
+
+---
+
+# 7. Diagnosis
+- Clinical signs/symptoms  
+- Lab methods (microscopy, culture, PCR, histology, serology)  
+
+**PubMed Search Terms**  
+- `"Candida albicans diagnosis PCR culture"`  
+- `"Sporothrix schenckii diagnosis biopsy"`  
+- `"Paracoccidioides brasiliensis serological diagnosis"`  
+
+---
+
+# 8. Treatment & Control
+- Common antifungals (azoles, amphotericin B, echinocandins)  
+- Resistance issues?  
+- Prevention measures (PPE, avoiding exposure, healthcare strategies)?  
+
+**PubMed Search Terms**  
+- `"Aspergillus fumigatus antifungal resistance"`  
+- `"Candidiasis treatment fluconazole echinocandin"`  
+- `"Histoplasmosis amphotericin itraconazole treatment"`  
+
+---
+
+# 9. Relevance & Impact
+- Why is this fungus important?  
+- Human health, agriculture, ecology, or economy?  
+
+**PubMed Search Terms**  
+- `"Candida albicans global burden health"`  
+- `"Pseudogymnoascus destructans white nose syndrome impact"`  
+- `"Aspergillus fumigatus agriculture contamination"`  

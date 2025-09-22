@@ -1,0 +1,312 @@
+---
+marp: true
+theme: default
+paginate: true
+---
+
+# Chapter 31 – Fungi
+Biology 2025 Release  
+Raven, Johnson, Mason, Losos
+
+---
+
+# Lecture Outline
+- 31.1 Classification of Fungi  
+- 31.2 Fungal Forms, Nutrition, and Reproduction  
+- 31.3 Fungal Ecology  
+- 31.4 Fungal Parasites and Pathogens  
+- 31.5 Basidiomycota: The Club (Basidium) Fungi  
+- 31.6 Ascomycota: The Sac (Ascus) Fungi  
+- 31.7 Glomeromycotina: Asexual Plant Symbionts  
+- 31.8 Traditional Zygomycetes: Zygote-Producing Fungi  
+- 31.9 Chytridiomycota and Relatives: Fungi with Zoospores  
+- 31.10 Microsporidia: Unicellular Parasites
+
+---
+
+# 31.1 Classification of Fungi
+- Early attempts based on morphology  
+- Molecular techniques → accurate phylogeny  
+- Fungi more closely related to animals than plants  
+- Diverged ~1.3 BYA from unicellular ancestor
+- Common anscestor was unicellular
+
+---
+
+# Why Fungi Are More Like Animals than Plants
+- **Heterotrophs** – absorb nutrients, cannot photosynthesize  
+- **Chitin cell walls** – same material found in arthropod exoskeletons  
+- **Glycogen storage** – store carbohydrates as glycogen (plants use starch)  
+- **Mitochondria, not plastids** (plant and algal organelles) – no chloroplasts or photosynthetic pigments  
+- **Closer DNA/phylogeny** – fungi + animals share a more recent common ancestor
+- **Eukaryotic**
+
+---
+
+# Key Differences from Plants
+- Plants: autotrophs with chlorophyll, cellulose walls, starch storage  
+- Fungi: heterotrophs, chitin walls, glycogen storage  
+- Fungi often partner with plants (mycorrhizae, lichens) but are **evolutionarily closer to us**  
+
+
+---
+  
+# 31.1 Classification of Fungi
+## Six monophyletic phyla:  
+  - Blastocladiomycota  
+  - Neocallismastigomycota  
+  - Chytridiomycota  
+  - Glomeromycotina  
+  - Basidiomycota  
+  - Ascomycota  
+- Traditional Zygomycota not monophyletic  
+- Microsporidia = sister group to Fungi
+
+---
+
+# 31.2 Fungal Forms, Nutrition, Reproduction
+- 2.2–3.8 million species  
+- Unicellular or multicellular  
+- Ecological niches: mutualistic, parasitic, free-living  
+- Sexual or asexual reproduction  
+- Unusual mitosis  
+- Specialized absorptive nutrition
+
+---
+
+
+
+# Ecological Niches of Fungi
+
+**Mutualistic**  
+- Both partners benefit  
+- Example: mycorrhizal fungi + plants (nutrients ↔ sugars)
+
+---
+
+![bg right fit](../Unit1lectures_static/kingdon_fungi/infected_Cordyceps_grasshopper.jpg)
+
+
+**Parasitic**  
+- One benefits, the host is harmed  
+- Example: *Cordyceps* infecting insects
+
+
+---
+
+**Free-living (Saprophytic)**  
+- Independent; decompose dead material  
+- Example: *Rhizopus* (bread mold) in soil or food
+
+
+
+
+---
+
+**Growth Forms**
+- Yeasts (unicellular)  
+- Mycelia (multicellular hyphae)  
+- Hyphae: septa (perforated), cytoplasmic flow
+
+---
+
+**Cell Walls**
+- Chitin (also in arthropods)
+
+**Mycelium**
+- High SA:V ratio, rapid nutrient uptake  
+- Fruiting bodies form under stress
+
+---
+# Why Fungi Have a High SA:V Ratio
+
+- **SA:V ratio = Surface Area to Volume**  
+- Fungal hyphae are long, thin, and highly branched → **huge surface area**  
+- More surface = more sites for **nutrient absorption**  
+- Small volume = nutrients don’t have far to travel inside the cell  
+
+**Analogy:**  
+- A **sponge** (lots of surface) absorbs water quickly  
+- A **brick** (low surface) does not  
+
+## Contributes to fungi being **efficient decomposers** in ecosystems.
+
+---
+
+
+# Nuclear Organization
+- Monokaryotic (1 nucleus)  
+- Dikaryotic (2 nuclei, not fused)  
+- Heterokaryotic (genetically distinct nuclei)  
+- Homokaryotic (genetically identical)
+
+**Mitosis**
+- Nucleus is unit of division  
+- Spindle forms inside nuclear envelope  
+- No centrioles (except chytrids)
+
+**Reproduction**
+- Sexual: fusion of haploid hyphae  
+- Dikaryotic stage before diploid  
+- Fruiting bodies form reproductive structures  
+- Four main reproductive structures:  
+  - Zoospores  
+  - Zygosporangia  
+  - Basidia  
+  - Asci  
+
+**Spores**
+- Sexual or asexual  
+- Dispersed mainly by wind  
+- Germinate into new mycelium
+
+---
+
+# 31.3 Fungal Ecology
+- Principal decomposers (with bacteria)  
+- Break down cellulose and lignin  
+- Release C, N, P back into ecosystems
+
+**Carnivorous Fungi**
+- *Pleurotus ostreatus* paralyzes nematodes
+
+**Symbioses**
+- Obligate vs facultative  
+- Pathogens vs parasites vs commensals vs mutualists
+
+---
+
+**Endophytes**
+- Live inside plants  
+- Can deter herbivores, increase nutrients  
+- Ryegrass + endophyte = reduced aphids
+
+**Lichens**
+- Fungus + algae/cyanobacteria  
+- Fungus provides moisture, structure  
+- Photosynthetic partner provides carbs  
+- Sensitive to pollutants
+
+
+---
+
+**Mycorrhizae**
+- 90% plant families  
+- Extend root system, exchange sugars/nutrients  
+- Arbuscular (Glomeromycotina)  
+- Ectomycorrhizae (forest trees, basidiomycetes)
+
+**Animal Mutualisms**
+- Ruminants: gut fungi digest cellulose  
+- Leaf-cutter ants: fungal gardens
+
+---
+
+# 31.4 Fungal Parasites & Pathogens
+- Human/animal issues:  
+  - Allergens (spores)  
+  - Mycoses (direct infections)  
+  - Mycotoxins (toxic metabolites)  
+- Mycotoxins:  
+  - *Aspergillus flavus* (aflatoxins)  
+  - *Penicillium* (antibiotic production)  
+  - *Ustilago maydis* (corn smut)
+
+**Diseases**
+- Humans: athlete’s foot, ringworm, candidiasis  
+- Amphibians: chytridiomycosis (*Batrachochytrium dendrobatidis*)  
+- Plants: rice blast, wheat rust, *Armillaria* root rot
+
+---
+
+# 31.5 Basidiomycota
+- 32,000+ species  
+- Mushrooms, rusts, smuts  
+- Basidium = club-shaped reproductive structure
+---
+
+![bg fit](../Unit1lectures_static/kingdon_fungi/rav38043_ta3102_hires.jpg)
+
+---
+
+**Life Cycle**
+
+
+
+- Haploid spore → primary mycelium (monokaryotic)  
+- Plasmogamy → dikaryotic secondary mycelium  
+- Basidiocarp (mushroom) forms  
+- Basidia on gills → karyogamy → meiosis → basidiospores
+
+---
+
+# 31.6 Ascomycota
+- 64,000+ species  
+- Yeasts, molds, truffles, morels  
+- Includes pathogens: chestnut blight, Dutch elm disease  
+- Penicillin-producing *Penicillium*  
+- Ascus = saclike reproductive structure
+
+**Reproduction**
+- Asexual: conidiophores → conidia  
+- Sexual: plasmogamy → dikaryotic cells → ascocarp → asci → karyogamy + meiosis + mitosis → 8 ascospores
+
+**Yeasts**
+- Unicellular ascomycetes  
+- Budding/fission, sometimes sexual cycle  
+- Ferment carbohydrates: bread, beer, wine  
+- *Saccharomyces cerevisiae* = key model system
+
+---
+
+# 31.7 Glomeromycotina
+- ~200 species  
+- Obligate symbionts with plant roots (AM fungi)  
+- Crucial for plant colonization of land  
+- No aboveground fruiting structures
+
+---
+
+# 31.8 Traditional Zygomycetes
+- ~1,000 species  
+- Non-monophyletic  
+- Bread molds, some pathogens
+
+**Asexual**
+- Sporangiophores with sporangia → haploid spores
+
+**Sexual**
+- Opposite mating types form gametangia  
+- Plasmogamy → zygosporangium  
+- Karyogamy → diploid zygote → meiosis → haploid spores  
+- Example: *Rhizopus* (black bread mold)
+
+---
+
+# 31.9 Chytridiomycota & Relatives
+- Aquatic, flagellated fungi  
+- Zoospores (motile, flagellated)  
+- Ancestral lineage of fungi
+
+---
+
+# 31.10 Other Groups
+**Blastocladiomycetes**  
+- Aquatic/terrestrial  
+- Parasites of plants/animals/fungi  
+- Zoospores, alternation of generations (*Allomyces*)  
+
+**Neocallimastigomycota**  
+- Anaerobic gut fungi in herbivores  
+- Hydrogenosomes (no mitochondria)  
+- Digest cellulose/lignin  
+- HGT of cellulase from bacteria  
+
+**Microsporidia**  
+- Obligate intracellular parasites  
+- Tiny genomes, no mitochondria  
+- Polar tubes inject spore contents into host cells
+
+---
+
+# End of Chapter 31
